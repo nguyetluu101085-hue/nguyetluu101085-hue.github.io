@@ -1,0 +1,20 @@
+# Placeholder config.yml_
+# Replace the example values below with real settings for your project.
+
+app:
+  name: my-app
+  environment: development
+  debug: true
+
+database:
+  host: localhost
+  port: 5432
+  username: user
+  password: pass
+  name: myapp_db
+
+features:
+  - featureA
+  - featureB
+
+# End of file
